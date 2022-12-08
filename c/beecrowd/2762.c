@@ -1,10 +1,5 @@
 #include<stdio.h>
-
-typedef long long ll;
-
-
-int main(int argc, char** argv) {
-	ll a,b;
-	scanf("%lld.%lld",&a,&b);
-	printf("%lld.%lld\n",b,a);
+int main(){
+    printf("       A\n      B B\n     C   C\n    D     D\n   E       E\n    D     D\n     C   C\n      B B\n       A\n");
+  return 0;
 }
